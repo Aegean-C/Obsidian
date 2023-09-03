@@ -1,0 +1,9 @@
+{
+  "promptDelete": true,
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true,
+  "readableLineLength": true,
+  "spellcheck": false,
+  "newLinkFormat": "relative",
+  "attachmentFolderPath": "400 - Resource"
+}
